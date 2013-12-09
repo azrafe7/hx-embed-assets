@@ -14,8 +14,8 @@ Showcases:
  - File embedding (**@:file**)
  - XML embedding (**@:file** and **Xml** manipulation)
 
-The great news is that now those metatags seem to be supported on almost all platforms... 
+The great news is that now those metatags seem to be supported on _almost_ all platforms... 
 and that the resources will actually be included in the executable, just like flash does 
 (**they won't be copied over to the output folder!**).
 
-Tested and working on windows targeting flash, neko, cpp and android.
+Tested and working on windows targeting `flash`, `neko`, `cpp` and `android` (no luck with `html` for now).
